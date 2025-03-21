@@ -1,0 +1,28 @@
+# Python files
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.env
+venv/
+env/
+.venv/
+.python-version
+
+# Streamlit files
+.streamlit/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Large files
+*.zip
+*.tar.gz
+*.log
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
